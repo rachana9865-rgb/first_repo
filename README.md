@@ -5,7 +5,7 @@
 3. Commit stage files, with a descript message. This permanently saves a version of your code to your local repo.
 4. Push (Sync) changes to github (or publish repository if this is first commit/save)
 
-- COmmit files - you give a message to the version you are permanently saving.o changes seection.
+- StageCOmmit files - you give a message to the version you are permanently savingchanges seection.
 - Commit stage files, with a descript message. This permanently saves a version of your code to your local repo.
 
      - make sure the message is descriptive.
